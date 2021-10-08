@@ -1,5 +1,5 @@
 - 👋 Filippo | PhD candidate @ Institut für Theoretische Physik, ETH Zürich
-- 👀 Natural Language Processing, Time-series with Transformers
+- 👀 Natural Language Processing, Transformer architectures
 
 <!---
 cange95/cange95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
